@@ -1,6 +1,6 @@
 def add(x, y):
     """Add Function"""
-    return x + y
+    add( x + y)
 
 
 def subtract(x, y):
